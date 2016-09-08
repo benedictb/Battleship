@@ -1,6 +1,6 @@
 # Battleship
 
-Battleship is a clone of the popular board game of the same name written in MATLAB, created by a team of myself and four other team members as the semester project for he Introduction to Engineering Systems II class at the University of Notre Dame. 
+Battleship is a clone of the popular board game of the same name written in MATLAB. This project was created by a team of myself and four other students--all of which were programming for the first time that semester. It was made for the Introduction to Engineering Systems II class at the University of Notre Dame. 
 
 Since MATLAB isn't optimized for working with intricate GUIs like the gameboard in Battleship, displaying the inital board after choosing ship placements may take several minutes.
 
