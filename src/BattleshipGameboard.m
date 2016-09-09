@@ -25,6 +25,7 @@ function varargout = BattleshipGameboard(varargin)
 % Last Modified by GUIDE v2.5 22-Apr-2015 16:11:26
 
 % Begin initialization code - DO NOT EDIT
+
 gui_Singleton = 1;
 gui_State = struct('gui_Name',       mfilename, ...
     'gui_Singleton',  gui_Singleton, ...
